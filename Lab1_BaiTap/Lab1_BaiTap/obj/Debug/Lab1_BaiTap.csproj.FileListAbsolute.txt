@@ -1,0 +1,13 @@
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\bin\Debug\Lab1_BaiTap.exe.config
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\bin\Debug\Lab1_BaiTap.exe
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\bin\Debug\Lab1_BaiTap.pdb
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.frmBai1.resources
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.frmChinh.resources
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.Properties.Resources.resources
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.exe
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.pdb
+D:\hk2_n1\desktop\Lab1_BaiTap\Lab1_BaiTap\obj\Debug\Lab1_BaiTap.frmBai2.resources
