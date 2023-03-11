@@ -18,19 +18,25 @@ namespace Lab1_BaiTap
 			InitializeComponent();
 		}
 
-		private void bài1ToolStripMenuItem_Click(object sender, EventArgs e)
+
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+			var form = new frmBai1();
+			form.ShowDialog();
+		}
+
+		private void button2_Click(object sender, EventArgs e)
 		{
 			var form = new frmBai2();
 			form.ShowDialog();
 		}
 
-
-		private void bài2ToolStripMenuItem1_Click(object sender, EventArgs e)
+		private void button3_Click(object sender, EventArgs e)
 		{
-			var form = new frmBai2();
+
+			var form = new frmBai3();
 			form.ShowDialog();
 		}
-
-
 	}
 }

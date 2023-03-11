@@ -10,7 +10,7 @@ namespace Lab1_BaiTap
 	{
 		public string MaNV { get; set; }
 		public string HoTen { get; set; }
-		public string NgaySinh { get; set; }
+		public DateTime NgaySinh { get; set; }
 		public int HeSoLuong { get; set; }
 		public int HeSoPhuCap { get; set; }
 
@@ -19,13 +19,14 @@ namespace Lab1_BaiTap
 
 		public string HienThi() 
 		{
-			return string.Format("{0},{1},{2},{3},{4}", MaNV, HoTen, NgaySinh, HeSoLuong, HeSoPhuCap);
-		}
-
-		public static double TinhTien(int a, int b)
-		{
-			return (a + b) * 1500000;
+			return string.Format("{0},{1},{2},{3},{4},{5}", MaNV, HoTen, NgaySinh, HeSoLuong, HeSoPhuCap, TongLuong());
 		}
 	
+
+		public double TongLuong()
+		{
+			return (this.HeSoLuong + this.HeSoPhuCap) * 1150000;
+		}
+
 	}
 }

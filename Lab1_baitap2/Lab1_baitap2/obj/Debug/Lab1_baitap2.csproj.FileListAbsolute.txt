@@ -1,0 +1,14 @@
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\bin\Debug\Lab1_baitap2.exe.config
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\bin\Debug\Lab1_baitap2.exe
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\bin\Debug\Lab1_baitap2.pdb
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.frmBai1.resources
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.frmBai2.resources
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.frmBai3.resources
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.frmChinh.resources
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.Properties.Resources.resources
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.exe
+D:\hk2_n1\desktop\Lab1_baitap2\Lab1_baitap2\obj\Debug\Lab1_baitap2.pdb

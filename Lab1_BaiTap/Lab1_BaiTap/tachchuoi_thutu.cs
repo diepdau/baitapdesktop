@@ -11,10 +11,17 @@ namespace Lab1_BaiTap
 		public static void CatChuoi(string hoten,ref string ho, ref string ten)
 		{
 
-			string[] arrListStr = hoten.Split(',');
-			ho = arrListStr[0];
-			ten = arrListStr[hoten.Length - 1];
-		}
+			string[] ss = hoten.Trim().Split(' ');
+			ho = ss[0];
+			ten = ss[ss.Length - 1];
 
+		}
+		public bool ThuTu(int n1, int n2)
+		{
+			if (n2 - n1 == 1)
+				return true;
+			else
+				return false;
+		}
 	}
 }

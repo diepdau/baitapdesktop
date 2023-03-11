@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab1_BaiTap
+namespace Lab1_baitap2
 {
 	public partial class frmBai1 : Form
 	{
@@ -17,20 +17,15 @@ namespace Lab1_BaiTap
 			InitializeComponent();
 		}
 
-		private void label2_Click(object sender, EventArgs e)
-		{
-
-		}
-
 		private void frmBai1_Load(object sender, EventArgs e)
 		{
-			DoiTuongNhanVien hh = new DoiTuongNhanVien();
-			hh.MaNV = "HDD01";
-			hh.HoTen = "Nguyễn Hà";
-			hh.NgaySinh = new DateTime(2000, 04, 5);
-			hh.HeSoLuong = 20;
-			hh.HeSoPhuCap = 4;
-			label2.Text = hh.HienThi();
+			SanPham sp = new SanPham();
+			sp.MaSanPham = "SP123";
+			sp.TenSanPham = "Bánh đậu xanh";
+			sp.LoaiSanPham = "Thực phẩm";
+			sp.NgaySanXuat = new DateTime(2003, 3, 7);
+
+			lblSP.Text = sp.HienThi();
 		}
 	}
 }
